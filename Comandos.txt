@@ -1,4 +1,6 @@
 git init
 git add .
 git commit -m "Semillero HBT 2021"
-git remote add origin https://github.com/hbtdalvarez/tallerGit
+git remote add origin https://github.com/cdnarvaez98/HBTSesion2.git
+git branch -M main
+git push -u origin main
