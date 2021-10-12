@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "Semillero HBT 2021"
+git remote add origin https://github.com/hbtdalvarez/tallerGit
